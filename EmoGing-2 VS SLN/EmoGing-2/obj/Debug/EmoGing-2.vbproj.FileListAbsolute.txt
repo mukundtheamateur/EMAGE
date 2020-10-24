@@ -1,0 +1,10 @@
+c:\users\apoorv\documents\visual studio 2013\Projects\EmoGing-2\EmoGing-2\bin\Debug\EmoGing-2.exe.config
+c:\users\apoorv\documents\visual studio 2013\Projects\EmoGing-2\EmoGing-2\bin\Debug\EmoGing-2.exe
+c:\users\apoorv\documents\visual studio 2013\Projects\EmoGing-2\EmoGing-2\bin\Debug\EmoGing-2.pdb
+c:\users\apoorv\documents\visual studio 2013\Projects\EmoGing-2\EmoGing-2\bin\Debug\EmoGing-2.xml
+c:\users\apoorv\documents\visual studio 2013\Projects\EmoGing-2\EmoGing-2\obj\Debug\EmoGing_2.Form1.resources
+c:\users\apoorv\documents\visual studio 2013\Projects\EmoGing-2\EmoGing-2\obj\Debug\EmoGing_2.Resources.resources
+c:\users\apoorv\documents\visual studio 2013\Projects\EmoGing-2\EmoGing-2\obj\Debug\EmoGing-2.vbproj.GenerateResource.Cache
+c:\users\apoorv\documents\visual studio 2013\Projects\EmoGing-2\EmoGing-2\obj\Debug\EmoGing-2.exe
+c:\users\apoorv\documents\visual studio 2013\Projects\EmoGing-2\EmoGing-2\obj\Debug\EmoGing-2.xml
+c:\users\apoorv\documents\visual studio 2013\Projects\EmoGing-2\EmoGing-2\obj\Debug\EmoGing-2.pdb
